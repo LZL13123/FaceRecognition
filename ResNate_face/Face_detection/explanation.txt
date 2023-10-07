@@ -1,0 +1,9 @@
+官方模型下载地址
+resnet34
+    # https://download.pytorch.org/models/resnet34-333f7ec4.pth
+resnet50
+    # https://download.pytorch.org/models/resnet50-19c8e357.pth
+resnet101
+    # https://download.pytorch.org/models/resnet101-5d3b4d8f.pth  
+resnext50_32x4d
+    # https://download.pytorch.org/models/resnext50_32x4d-7cdf4587.pth
